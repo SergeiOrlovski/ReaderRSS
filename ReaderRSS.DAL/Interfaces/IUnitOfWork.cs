@@ -1,0 +1,16 @@
+﻿using ReaderRSS.DAL.Entity;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace ReaderRSS.DAL.Interfaces
+{
+    public interface IUnitOfWork : IDisposable
+    {
+        IRepository<RSSItem> RSSItem { get; }
+        IRepository<SourceRSS> SourceRSS { get; }
+        void Save();
+    }
+}

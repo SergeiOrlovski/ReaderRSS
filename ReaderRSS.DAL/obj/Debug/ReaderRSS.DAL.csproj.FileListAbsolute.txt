@@ -1,0 +1,11 @@
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\obj\Debug\ReaderRSS.DAL.csprojResolveAssemblyReference.cache
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\obj\Debug\ReaderRSS.DAL.csproj.CoreCompileInputs.cache
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\bin\Debug\ReaderRSS.DAL.dll.config
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\bin\Debug\ReaderRSS.DAL.dll
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\bin\Debug\ReaderRSS.DAL.pdb
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\bin\Debug\EntityFramework.dll
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\bin\Debug\EntityFramework.xml
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\obj\Debug\ReaderRSS.DAL.dll
+C:\Users\personal\Source\Repos\ReaderRSS\ReaderRSS.DAL\obj\Debug\ReaderRSS.DAL.pdb

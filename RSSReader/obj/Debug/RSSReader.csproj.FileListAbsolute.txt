@@ -1,0 +1,11 @@
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\bin\Debug\RSSReader.dll
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\bin\Debug\RSSReader.pdb
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\obj\Debug\RSSReader.csprojResolveAssemblyReference.cache
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\obj\Debug\RSSReader.csproj.CoreCompileInputs.cache
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\obj\Debug\RSSReader.dll
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\obj\Debug\RSSReader.pdb
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\bin\Debug\ReaderRSS.DAL.dll
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\bin\Debug\EntityFramework.dll
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\bin\Debug\ReaderRSS.DAL.pdb
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\bin\Debug\ReaderRSS.DAL.dll.config
+C:\Users\personal\Source\Repos\ReaderRSS\RSSReader\bin\Debug\EntityFramework.xml

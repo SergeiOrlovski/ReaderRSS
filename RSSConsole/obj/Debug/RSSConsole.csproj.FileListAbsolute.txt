@@ -1,0 +1,13 @@
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\RSSConsole.exe.config
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\RSSConsole.exe
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\RSSConsole.pdb
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\obj\Debug\RSSConsole.csprojResolveAssemblyReference.cache
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\obj\Debug\RSSConsole.csproj.CoreCompileInputs.cache
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\obj\Debug\RSSConsole.exe
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\obj\Debug\RSSConsole.pdb
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\CodeHollow.FeedReader.dll
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\HtmlAgilityPack.dll
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\HtmlAgilityPack.xml
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\RSSReader.dll
+C:\Users\personal\Source\Repos\ReaderRSS\RSSConsole\bin\Debug\RSSReader.pdb
