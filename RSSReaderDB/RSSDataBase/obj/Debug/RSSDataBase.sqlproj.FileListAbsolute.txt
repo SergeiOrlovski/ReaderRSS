@@ -1,0 +1,9 @@
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\bin\Debug\RSSDataBase.dacpac
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\bin\Debug\RSSDataBase.dll
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\bin\Debug\RSSDataBase.pdb
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\obj\Debug\Model.xml
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\obj\Debug\refactor.xml
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\obj\Debug\postdeploy.sql
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\obj\Debug\predeploy.sql
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\obj\Debug\RSSDataBase.dll
+C:\Users\personal\Source\Repos\RSSReader\RSSDataBase\obj\Debug\RSSDataBase.pdb
