@@ -80,10 +80,10 @@ namespace RSSReader
             return null;
         }
 
-        //public void AddNewRssItem(List<RSSItem> old, List<ReaderModel> model)
-        //{
-        //    foreach(var i in model)
-        //}
+        public void AddNewRssItem(List<RSSItem> old, List<ReaderModel> model)
+        {
+            
+        }
 
     }
 }
